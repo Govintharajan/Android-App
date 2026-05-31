@@ -1,0 +1,6 @@
+{
+  "name": "SajiSeremban_by_StudioGVS",
+  "description": "A low-commission gourmet discovery and real-time delivery app empowering small hawkers and roadside stalls in Seremban, Negeri Sembilan, with gamified subscription custom themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
